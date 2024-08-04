@@ -24,3 +24,5 @@ The Dataset link: https://www.kaggle.com/datasets/mhantor/russian-voice-dataset/
 + Precision: 0.98
 + F1 Score: 0.99
 + ROC AUC: 1.00
+
+I would be happy if you could point out my errors in the code or optimize its components!
